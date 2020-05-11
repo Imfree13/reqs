@@ -8,7 +8,8 @@ public class tes1 {
     public void Sts(){
         System.out.println("你好");
     }
-       public void ty(){
-        System.out.println("b12");
+
+    public void ty(){
+        System.out.println("boyd");
     }
 }

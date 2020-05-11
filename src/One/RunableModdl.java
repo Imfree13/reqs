@@ -10,6 +10,8 @@ public class RunableModdl {
 
     private String sex;
 
+    private String bdy;
+
     public String getName() {
         return name;
     }
@@ -33,4 +35,6 @@ public class RunableModdl {
     public void setSex(String sex) {
         this.sex = sex;
     }
+
+
 }
